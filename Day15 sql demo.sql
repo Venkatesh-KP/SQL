@@ -27,7 +27,7 @@ set
 -- SET phone = '9790451969'
 -- WHERE s_no = 1;
 -- set sql_safe_updates=0;
--- insert into demo values(4, 'saran','rupa','93606 32269');
+-- insert into demo values(4, 'saran','babu','93606 32269');
 delete from demo where firstName='sarananna';
 
 ALTER TABLE demo MODIFY COLUMN middleName VARCHAR(50);
